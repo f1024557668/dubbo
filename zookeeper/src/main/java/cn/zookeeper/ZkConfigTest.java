@@ -38,7 +38,7 @@ public class ZkConfigTest {
 
 		mag.upLoadConfigToDB("cwhcc", "passwordcc");
 		System.out.println("....修改配置文件...." + config.toString());
-		mag.syncConfigToZk();
-		System.out.println("....同步配置文件到zookeeper....");
+//		mag.syncConfigToZk();
+//		System.out.println("....同步配置文件到zookeeper....");
 	}
 }
