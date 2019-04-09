@@ -8,9 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="dubbo-api" />
         <module name="dubbo-customer" />
-        <module name="dubbo-provider" />
         <module name="zookeeper" />
+        <module name="dubbo-provider" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
