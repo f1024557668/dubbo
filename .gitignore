@@ -1,0 +1,7 @@
+/out/
+/dubbo-api/target/
+/dubbo-customer/target/
+/dubbo-provider/target/
+/hadoop/out/
+/hadoop/target/
+/zookeeper/target/
